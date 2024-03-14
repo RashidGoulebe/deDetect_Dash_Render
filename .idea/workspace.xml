@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4788c0b9-98b7-4093-ae8c-a6369f0ebbf0" name="Changes" comment="Schlauch Branch">
-      <change afterPath="$PROJECT_DIR$/eddetect_output_advanced_clean_02.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edDetect_viz.py" beforeDir="false" afterPath="$PROJECT_DIR$/edDetect_viz.py" afterDir="false" />
-    </list>
+    <list default="true" id="4788c0b9-98b7-4093-ae8c-a6369f0ebbf0" name="Changes" comment="Schlauch Branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +50,7 @@
     "Python.edDetect_viz.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Schlauch",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/rgoulebe/PycharmProjects/deDetect_Dash_Render",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -161,6 +157,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Schlauch Branch" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/deDetect_Dash_Render$edDetect_viz.coverage" NAME="edDetect_viz Coverage Results" MODIFIED="1710421432652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deDetect_Dash_Render$edDetect_viz.coverage" NAME="edDetect_viz Coverage Results" MODIFIED="1710421724321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
