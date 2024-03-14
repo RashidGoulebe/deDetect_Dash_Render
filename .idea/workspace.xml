@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4788c0b9-98b7-4093-ae8c-a6369f0ebbf0" name="Changes" comment="Update">
+    <list default="true" id="4788c0b9-98b7-4093-ae8c-a6369f0ebbf0" name="Changes" comment="Schlauch Branch">
+      <change afterPath="$PROJECT_DIR$/eddetect_output_advanced_clean_02.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edDetect_viz.py" beforeDir="false" afterPath="$PROJECT_DIR$/edDetect_viz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -47,7 +54,8 @@
     "Python.edDetect_viz.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Schlauch",
+    "last_opened_file_path": "C:/Users/rgoulebe/PycharmProjects/deDetect_Dash_Render",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +64,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rgoulebe\PycharmProjects\deDetect_Dash_Render" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710411143402</updated>
       <workItem from="1710411144614" duration="285000" />
-      <workItem from="1710411439881" duration="1520000" />
+      <workItem from="1710411439881" duration="4989000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -106,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710412623061</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="BareBone">
+      <option name="closed" value="true" />
+      <created>1710413138875</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710413138875</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Schlauch Branch">
+      <option name="closed" value="true" />
+      <created>1710413357255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710413357255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,9 +156,11 @@
     <MESSAGE value="test" />
     <MESSAGE value="added requirements.txt" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="BareBone" />
+    <MESSAGE value="Schlauch Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Schlauch Branch" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/deDetect_Dash_Render$edDetect_viz.coverage" NAME="edDetect_viz Coverage Results" MODIFIED="1710412976813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deDetect_Dash_Render$edDetect_viz.coverage" NAME="edDetect_viz Coverage Results" MODIFIED="1710421432652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
